@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Define the server address and user
 SERVER_ADDRESS="your.server.address"
 
