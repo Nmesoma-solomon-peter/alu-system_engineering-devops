@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Define the server address and user
-SERVER_ADDRESS="your.server.address"
+SERVER_ADDRESS=" "
 
 # Use ssh with single-character flags to connect to the server
 ssh -i ~/.ssh/school ubuntu@$SERVER_ADDRESS
